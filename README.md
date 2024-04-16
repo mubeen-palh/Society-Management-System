@@ -14,6 +14,7 @@ There are two main categories in this society Resident and Union Member. In Resi
 In the next category of Union Member, we have three main subclasses General Secretary, Estate Agent, and Security Guard. General Secretary has the main functionalities such as adding Estate Agents, adding guard accounts, adding bills, viewing bills, and adding duties.
 Estate agents can add empty houses for purchase or rent, they can also add rental accounts, and manage and edit house details.
 Security Guard class can view their duties, check their salary status, and view the visitor lists.
+
 **Methodology:**
 
 This project contains all the concepts of Object Oriented Programming with all the basic principles. However, file handling is the main method used in this project that has enhanced our program to a greater extent and to manage our program effectively. Separate files are created for Class Members. By file Handling and other concepts of OOP we have created more 30 functions of all classes. 
